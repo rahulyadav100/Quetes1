@@ -1,0 +1,41 @@
+
+.Data-main{
+    background-color:#181C14;
+    color: grey;
+    height: 100%;
+    width: 100%;
+    position: fixed;
+   overflow-y: auto;
+   overflow-x: hidden;
+    text-align: center;
+}
+.Data-Card{
+    width: 500px;
+    background-color:#3C3D37;
+    margin: 10% 35% 75px;
+    border: solid;
+    border-radius: 20px;
+    
+
+}
+
+.saved-quote-card{
+    border: solid black;
+    border-radius: 20px;
+    margin-top: 10px;
+    padding: 10px;
+}
+.Data-Card:hover{
+    transform: scale(1.05);
+    border-color:#697565;
+    color: #ECDFCC;
+}
+.btn-1{
+    border-radius: 20px;
+    width: 200px;
+    height: 30px;
+    margin: 20px;
+    color: #ECDFCC;
+    border-color:#697565;
+    background-color: transparent;
+}

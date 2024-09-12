@@ -1,0 +1,23 @@
+.quote-card{
+    box-shadow: solid;
+   
+    width: 400px;
+    height: auto;
+    text-align: center;
+    border-radius: 18px;
+    text-align: center;
+    padding: 20px;
+    border: solid black;
+    margin-left: 20px;
+}
+
+.btn-2{
+    border-radius: 20px;
+    width: 200px;
+    height: 30px;
+    margin-top: 10px;
+    color: #ECDFCC;
+    border-color:#697565;
+    background-color: transparent;
+    
+}
